@@ -4,7 +4,7 @@ from openai import OpenAI
 import aiomysql
 
 # 使用通义千问通义千问
-DASHSCOPE_API_KEY = "sk-c268f16163084457ad1b8218e6c7a91b"
+DASHSCOPE_API_KEY = "在这里写上你的key"
 
 client = OpenAI(
     api_key=DASHSCOPE_API_KEY,
